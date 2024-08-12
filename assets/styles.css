@@ -338,14 +338,14 @@
         position: absolute;
         top: 44%;
         left: -1%;
-        background-color: #153a3a;
+        background-color: #7f8d8d;
         border: 1px solid black;
         width: 100px;
         height: 55px;
         border-radius: 0 0 3px 3px;
-        /* background-image: url("adererror.png"); */
+        background-image: url("heart.png");
         background-position: 80% 25%;
-        background-size: 20%;
+        background-size: 30%;
         background-repeat: no-repeat;
         z-index: 3;
     }
@@ -356,7 +356,7 @@
         right: -1%;
         width: 40px;
         height: 32px;
-        background-color: #153a3a;
+        background-color: #7f8d8d;
         border: 1px solid black;
         border-radius: 0 40% 40% 0 / 0 50% 50% 0;
     }
@@ -397,7 +397,7 @@
         position: absolute;
         bottom: -1%;
         left: -1%;
-        background-color: rgb(48, 29, 14);
+        background-color: rgb(50, 101, 179);
         border: 1px solid black;
         width: 100px;
         height: 55px;
@@ -409,7 +409,7 @@
         position: absolute;
         width: 31px;
         height: 40px;
-        background-color: rgb(48, 29, 14);
+        background-color: rgb(50, 101, 179);
         border: 1px solid black;
         border-radius: 50% 50% 0 0 / 30% 30% 0 0;
     }
